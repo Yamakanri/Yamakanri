@@ -10,8 +10,10 @@
 </div>
 
 ### 👁️ About me
+⚫ System analysist at LANDPRO.site
 
-⚫ ITMO student, Programming and Neurotechnology, Faculty of Software Engineering, 3 year
+⚫ ITMO student, Programming and Neurotechnology, Faculty of Software Engineering, 4 year
+
 
 ⚫ Programming languages:
 
@@ -20,6 +22,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-FFFF00?style=for-the-badge)
 
-⚫ Human Languages: English: B2+, Spanish: A2, Russian: Native Speaker
+⚫ Human Languages: English: C1, Spanish: A2, Russian: Native Speaker
 
-⚫ Focus on biometric technologies, neurotechnology
+⚫ Focus on system analysis, biometric technologies, neurotechnology (EEG and EKG devices)
